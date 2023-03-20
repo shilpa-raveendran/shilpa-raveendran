@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shilpa-raveendran" alt="shilpa-raveendran" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=shilpa-raveendran" alt="shilpa-raveendran" /></p>
 
 <img align="right" alt="Coding" width="400" src="https://thumbs.dreamstime.com/b/girl-programming-programmer-working-female-character-laptop-headphones-woman-coding-learning-vector-concept-208497357.jpg">
 
