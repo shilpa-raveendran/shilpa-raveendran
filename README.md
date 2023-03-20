@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Software Engineer with hands-on experience in technologies like Java, Spring , Hibernate, jQuery, JavaScript, etc</h3>
 
 <img align="center" alt="Coding" width="400" src="https://thumbs.dreamstime.com/b/girl-programming-programmer-working-female-character-laptop-headphones-woman-coding-learning-vector-concept-208497357.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shilpa-raveendran&label=Profile%20views&color=0e75b6&style=flat" alt="shilpa-raveendran" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shilpa-raveendran" alt="shilpa-raveendran" /></a> </p>
 
@@ -11,10 +10,6 @@
 - 💬 Ask me about **Java, Spring Boot, JavaScript**
 
 - 📫 How to reach me **silpa304@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shilpa-raveendran&show_icons=true&locale=en" alt="shilpa-raveendran" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shilpa-raveendran&" alt="shilpa-raveendran" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shilpa-raveendran&label=Profile%20views&color=0e75b6&style=flat" alt="shilpa-raveendran" /> </p>
